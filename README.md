@@ -5,8 +5,8 @@
 
 <!-- status codes -->
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiraeduardos&layout=compact" alt="languages" height="165">
-    <img src="https://github-readme-stats.vercel.app/api?username=vieiraeduardos&show_icons=true&layout=compact" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiraeduardos&layout=compact&theme=dracula" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=vieiraeduardos&show_icons=true&layout=compact&theme=dracula" alt="my github stats" width="420"/>&nbsp;
 </p>
 
 <div style="display: inline_block"><br>
