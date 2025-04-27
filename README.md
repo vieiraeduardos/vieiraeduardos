@@ -1,7 +1,7 @@
-### Hi there 👋
+### Olá, eu sou o Eduardo 👋
 
-- I'm currently a researcher at Pontifical Catholic University, where I am majoring in a master's degree in computing.
-- I also work as Data Scientist on a R & D project with BTG Pactual and PUC-Rio.
+- Eu sou atualmente Engenheiro de Software na Accenture.
+- Sou especialista com certificações em nuvem, desenvolvimento e gestão de projetos.
 
 <!-- status codes -->
 <p>
