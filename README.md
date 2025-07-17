@@ -1,33 +1,43 @@
-### Olá, eu sou o Eduardo 👋
-
-- Eu sou atualmente Engenheiro de Software na Accenture.
-- Sou especialista com certificações em nuvem, desenvolvimento e gestão de projetos.
-
-<!-- status codes -->
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiraeduardos&layout=compact&theme=dracula" alt="languages" height="165">
-    <img src="https://github-readme-stats.vercel.app/api?username=vieiraeduardos&show_icons=true&layout=compact&theme=dracula" alt="my github stats" width="420"/>&nbsp;
+# 💜 Olá, eu sou o Eduardo!
+<p align="left">
+  Desenvolvedor, comprometido a criar soluções modernas, funcionais e com propósito. <br>
+ Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
 </p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eduardo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Eduardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eduardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-</div>
+### Sobre mim
 
-#
+- 🖥️ Técnico em Informática pelo IFMA
+- 🎓 Graduado em Ciência da Computação na UFMA
+- 🎓 Mestrando na PUC-Rio
+- 📚 Especialista com certificações: 2x AWS, 2x Oracle (Java), 2x Cisco (JavaScript) e 2x Cisco (Python) e outras em IA
 
-<div> 
-    <a href = "mailto:edusvieirap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/vieiraeduardos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitter.com/vieiraeduardos" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/vieiraeduardos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.com/vieiraeduardos#8481" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+### 💻 Tecnologias e linguagens 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,java,python,docker)](https://skillicons.dev)
 
-</div>
-  
-  
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,react,mysql,postgres,mongodb)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Sou formado como <strong>Técnico em Informática</strong> pelo IFMA e <strong>Graduado em Ciência da Computação</strong> pela UFMA. Atualmente, sou <strong>Mestrando na PUC-Rio</strong>.<br><br>
+  Sou especialista em <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end e <strong>Node.js</strong> para o back-end, além de explorar tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>MongoDB</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos pessoais e profissionais. <br><br>
+  Sou especialista com certificações: <strong>2x AWS (Certified Practitioner e Solutions Architect Associate)</strong>, <strong>2x Oracle (Java Associate e Java Foundational)</strong>, <strong>2x Cisco (JavaScript)</strong>, <strong>2x Cisco (Python)</strong> e diversas outras focadas em Inteligência Artificial. <br><br>
+  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+</p>
+
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+</p>
+
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eduardovieirapessoais@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/vieiraeduardos/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/vieiraeduardos" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
