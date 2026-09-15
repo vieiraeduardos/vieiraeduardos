@@ -9,7 +9,7 @@
 - 🖥️ Técnico em Informática pelo IFMA
 - 🎓 Graduado em Ciência da Computação na UFMA
 - 🎓 Mestrando na PUC-Rio
-- 📚 Especialista com certificações: 2x AWS, 2x Oracle (Java), 2x Cisco (JavaScript) e 2x Cisco (Python) e outras em IA
+- 📚 Especialista com certificações: 3x AWS, 2x Oracle (Java), 2x Cisco (JavaScript) e 2x Cisco (Python) e outras em IA
 
 ### 💻 Tecnologias e linguagens 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,java,python,docker)](https://skillicons.dev)
