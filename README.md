@@ -11,14 +11,26 @@
 - 🎓 Mestrando na PUC-Rio
 - 📚 Especialista com certificações: 3x AWS, 2x Oracle (Java), 2x Cisco (JavaScript) e 2x Cisco (Python) e outras em IA
 
-### 💻 Tecnologias e linguagens 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,java,python,docker)](https://skillicons.dev)
+### 🚀 Tecnologias e linguagens 
+[![My Skills](https://skillicons.dev/icons?i=java,js,typescript,python,html,css)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,react,mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,nextjs,react,django)](https://skillicons.dev)
 
-### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+### 🚀 Bancos de dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
+
+### 🚀 Messageria e streaming de dados
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,kafka)](https://skillicons.dev)
+
+### 🚀 Observabilidade
+[![My Skills](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev)
+
+### 🚀 Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,docker,kubernetes)](https://skillicons.dev)
+
+### 🚀 Computação em nuvem
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
